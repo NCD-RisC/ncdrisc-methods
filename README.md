@@ -3,7 +3,7 @@ This repository hosts documetns in relation to the methods used for the global p
 
 ### 1. Conversion to consistent metric
 #### Mean body-mass index (BMI)
-[NCD-RisC-conversion-model-for-mean-bmi](https://github.com/NCD-RisC/ncdrisc-methods/blob/NCD-RisC-conversion-model-for-mean-bmi.pdf): This document describes methods for estimating mean BMI using BMI prevalence data where mean BMI was not available directly.
+[NCD-RisC-conversion-model-for-mean-bmi](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/NCD-RisC-conversion-model-for-mean-bmi.pdf): This document describes methods for estimating mean BMI using BMI prevalence data where mean BMI was not available directly.
 
 ### 2. Data cleaning
 [to be added]
