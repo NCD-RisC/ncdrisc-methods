@@ -6,4 +6,4 @@ This repository hosts documetns in relation to the methods used for the global p
 [NCD-RisC-conversion-model-for-mean-bmi](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/NCD-RisC-conversion-model-for-mean-bmi.pdf): This document describes methods for estimating mean BMI using BMI prevalence data where mean BMI was not available directly.
 
 ### 2. Data cleaning
-[to be added]
+[Data cleaning protocols](https://github.com/NCD-RisC/Data-cleaning-protocol): This repository describes the cleaning criteria for data in NCD-RisC database.
