@@ -2,7 +2,7 @@
 This repository hosts documetns in relation to the methods used for the global pooling analyses by the NCD Risk Factor Collaboration
 
 ### 1. Inclusion/exclusion 
-[NCD-RisC inclusion/exclusion criteria](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/Inclusion%20Exclusion%20criteria%20Protocol%2022.11.2022.pdf): This document describes the inclusion/exclusion criteria for studies to be included in the NCD-RisC database. 
+[NCD-RisC inclusion/exclusion criteria](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/Inclusion%20Exclusion%20criteria%20Protocol.pdf): This document describes the inclusion/exclusion criteria for studies to be included in the NCD-RisC database. 
 
 ### 2. Data cleaning
 [Data cleaning protocols](https://github.com/NCD-RisC/Data-cleaning-protocol): This repository describes the cleaning criteria for data in NCD-RisC database.
