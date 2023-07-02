@@ -1,6 +1,8 @@
 # NCD-RisC methods for analysing global NCD risk factor data
 This repository hosts documetns in relation to the methods used for the global pooling analyses by the NCD Risk Factor Collaboration
 
+## Data processing
+
 ### 1. Inclusion/exclusion 
 [NCD-RisC inclusion/exclusion criteria](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/Inclusion%20Exclusion%20criteria%20Protocol.pdf): This document describes the inclusion/exclusion criteria for studies to be included in the NCD-RisC database. 
 
@@ -10,3 +12,8 @@ This repository hosts documetns in relation to the methods used for the global p
 ### 3. Conversion to consistent metric
 #### Mean body-mass index (BMI)
 [NCD-RisC-conversion-model-for-mean-bmi](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/NCD-RisC-conversion-model-for-mean-bmi.pdf): This document describes methods for estimating mean BMI using BMI prevalence data where mean BMI was not available directly.
+
+## Statistical modelling
+
+### 1. Estimating trends in mean BMI and height for urban and rural children and adolescents
+[R codes of statistical model](https://zenodo.org/record/7355602): This Zenodo repository provides the R codes for the statistical methods for estimating trends in mean BMI and height for children and adolescents in urban and rural areas. The results were published in [Nature 2023](https://www.nature.com/articles/s41586-023-05772-8).
