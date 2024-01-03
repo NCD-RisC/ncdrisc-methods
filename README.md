@@ -14,7 +14,7 @@ This repository hosts documents in relation to the methods used for the global p
 [NCD-RisC-conversion-model-for-mean-bmi](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/NCD-RisC-conversion-model-for-mean-bmi.pdf): This document describes methods for estimating mean BMI using BMI prevalence data where mean BMI is not available directly.
 
 #### Prevalence of BMI categories
-[NCD-RisC-conversion-model-for-prev-bmi](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/NCD-RisC-conversion-model-for-prev-bmi.pdf): This document describes methods for estimating the prevalence of BMI categories using data for mean BMI and/or for other BMI categories where it is not available directly.
+[NCD-RisC-conversion-model-for-prev-bmi](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/NCD-RisC-conversion-model-for-prev-bmi.pdf): This document describes methods for estimating the prevalence of BMI categories using data for mean BMI and/or for other BMI categories where data for the categoryt of interest is not available directly.
 
 ## Statistical modelling
 
