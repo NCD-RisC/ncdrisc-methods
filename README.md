@@ -1,5 +1,5 @@
 # NCD-RisC methods for analysing global NCD risk factor data
-This repository hosts documetns in relation to the methods used for the global pooling analyses by the NCD Risk Factor Collaboration
+This repository hosts documents in relation to the methods used for the global pooling analyses by the NCD Risk Factor Collaboration
 
 ## Data processing
 
@@ -11,7 +11,10 @@ This repository hosts documetns in relation to the methods used for the global p
 
 ### 3. Conversion to consistent metric
 #### Mean body-mass index (BMI)
-[NCD-RisC-conversion-model-for-mean-bmi](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/NCD-RisC-conversion-model-for-mean-bmi.pdf): This document describes methods for estimating mean BMI using BMI prevalence data where mean BMI was not available directly.
+[NCD-RisC-conversion-model-for-mean-bmi](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/NCD-RisC-conversion-model-for-mean-bmi.pdf): This document describes methods for estimating mean BMI using BMI prevalence data where mean BMI is not available directly.
+
+#### Prevalence of body-mass index (BMI) ranges
+[NCD-RisC-conversion-model-for-mean-bmi](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/NCD-RisC-conversion-model-for-prev-bmi.pdf): This document describes methods for estimating the prevalence of BMI categories using data for mean BMI and/or for other BMI categories where it is not available directly.
 
 ## Statistical modelling
 
