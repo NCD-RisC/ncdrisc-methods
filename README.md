@@ -20,3 +20,6 @@ This repository hosts documents in relation to the methods used for the global p
 
 ### 1. Estimating trends in mean BMI and height for urban and rural children and adolescents
 [R codes of statistical model](https://zenodo.org/record/7355602): This Zenodo repository provides the R codes for the statistical methods for estimating trends in mean BMI and height for children and adolescents in urban and rural areas. The results were published in [Nature 2023](https://www.nature.com/articles/s41586-023-05772-8).
+
+### 2. Estimating trends in prevalence of underweight and obesity in children, adolescents and adults
+[R codes of statistical model](https://zenodo.org/record/10534960): This Zenodo repository provides the R codes for the statistical methods for estimating trends in prevalence of underweight and obesity in children, adolescents and adults. The results were published in [Lancet 2024](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02750-2/fulltext).
