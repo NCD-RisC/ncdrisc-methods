@@ -16,6 +16,9 @@ This repository hosts documents in relation to the methods used for the global p
 #### Prevalence of BMI categories
 [NCD-RisC-conversion-model-for-prev-bmi](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/NCD-RisC-conversion-model-for-prev-bmi.pdf): This document describes methods for estimating the prevalence of BMI categories using data for mean BMI and/or for other BMI categories where data for the category of interest is not available directly.
 
+#### Prevalence of BMI categories
+[NCD-RisC-conversion-model-for-diabetes-prevalence](https://github.com/NCD-RisC/ncdrisc-methods/blob/main/NCD-RisC-conversion-model-for-diabetes-prevalence.pdf): This document describes methods for estimating the prevalence of diabetes (defined as FPG ≥7.0 mmol/L or HbA1c ≥6.5% or taking medication for diabetes) using data for mean FPG, mean HbA1c and/or for prevalence based other diabetes definitions where data for the primary outcome for diabetes prevalence is not available directly.
+
 ## Statistical modelling
 
 ### 1. Estimating trends in mean BMI and height for urban and rural children and adolescents
